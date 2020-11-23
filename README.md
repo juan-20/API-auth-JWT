@@ -1,8 +1,8 @@
 # API-auth-JWT
 
-###Metodos:
+### Metodos:
 
-##POST:
+## POST:
 
 ``` 
 http://localhost:8080/auth/criarUsuario
@@ -17,7 +17,7 @@ body em json:
 }
 
 
-##POST de login
+## POST de login
 
 ``` 
 http://localhost:8080/auth/login
